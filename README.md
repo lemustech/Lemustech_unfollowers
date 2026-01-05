@@ -36,7 +36,7 @@ Copia y Pega: Copia todo el código del archivo lemustech-console-script.js de e
 
 Ejecuta: Pega el código en la consola y presiona Enter.
 
-¡Listo! La interfaz de Lemustech OmniTool aparecerá en tu pantalla. Sigue el Tour Guiado para aprender a usarla.
+¡Listo! La interfaz de Lemustech_Unfollwers aparecerá en tu pantalla. Sigue el Tour Guiado para aprender a usarla.
 
 
 
